@@ -23,7 +23,7 @@ This project is an AI-powered technical article generator that uses ArXiv papers
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/arxiv-research-tool.git
+git clone https://github.com/HappyHackingSpace/AI-Research-Writers-Tool.git
 cd arxiv-research-tool
 ```
 
