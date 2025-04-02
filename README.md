@@ -1,4 +1,4 @@
-# ArXiv Research Tool
+# AI Research Writers Tool
 
 This project is an AI-powered technical article generator that uses ArXiv papers as its knowledge base. The system consists of two main components:
 
