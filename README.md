@@ -24,7 +24,7 @@ This project is an AI-powered technical article generator that uses ArXiv papers
 1. Clone the repository:
 ```bash
 git clone https://github.com/HappyHackingSpace/AI-Research-Writers-Tool.git
-cd arxiv-research-tool
+cd AI-Research-Writers-Tool
 ```
 
 2. Install dependencies:
@@ -96,6 +96,10 @@ You can modify the following parameters in the scripts:
 - The ArXiv API has rate limits, so the fetching process includes sleep intervals
 - Generating articles for very niche topics may result in less relevant content
 - The quality of generated articles depends on the availability of relevant papers in the database
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HappyHackingSpace/AI-Research-Writers-Tool&type=Date)](https://star-history.com/#HappyHackingSpace/AI-Research-Writers-Tool&Date)
 
 ## License
 
